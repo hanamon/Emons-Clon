@@ -136,24 +136,3 @@ $(function(){ //mobile-header.js
 	});
 	
 }); //mobile-header.js
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

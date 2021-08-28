@@ -136,35 +136,3 @@ $(function(){ //section6-Slide.js
 	}
 
 }); //section6-Slide.js
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -35,7 +35,7 @@ $(function(){ //section1-Resize.js
 			}
 		}
 		imgH = $('.section1-nav-wrap>ul>li>a').innerHeight();
-			   $('.section1-nav-wrap>ul>li>a').css({ top:-imgH });
+					 $('.section1-nav-wrap>ul>li>a').css({ top:-imgH });
 	}
 	
 	function downBtnFn(){
@@ -43,26 +43,3 @@ $(function(){ //section1-Resize.js
 	}
 	
 }); //section1-Resize.js
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

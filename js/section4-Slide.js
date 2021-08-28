@@ -153,34 +153,3 @@ $(function(){ //section4-Slide.js
 	}
 
 }); //section4-Slide.js
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

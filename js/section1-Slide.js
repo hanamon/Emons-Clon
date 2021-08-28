@@ -324,36 +324,3 @@ $(function(){ //section1-Slide.js
 	}
 	
 }); //section1-Slide.js
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -57,7 +57,7 @@ $(function(){ //youtubeIframe.js
 					event.target.mute();
 				}
 				player = new YT.Player(youtube, {
-					 playerVars: {
+					playerVars: {
 						'width' : '100%',
 						'height' : '100%',
 						'autoplay' : 1,
@@ -72,7 +72,7 @@ $(function(){ //youtubeIframe.js
 					},
 					videoId: geturl,
 					events: {
-						  'onReady': youtube.onPlayerReady
+						'onReady': youtube.onPlayerReady
 					}
 				});
 				
@@ -85,7 +85,7 @@ $(function(){ //youtubeIframe.js
 					//player.playVideo();//재생
 					//player.stopVideo();//정지
 					if(t==0){	
-						<!-- player.stopVideo();//일시정지 -->
+						player.stopVideo();//일시정지
 						player.pauseVideo();//일시정지
 						$(this).css({opacity:1});
 						t=1;
@@ -100,7 +100,3 @@ $(function(){ //youtubeIframe.js
 			
 		} //youtubeObj() 메인함수 끝
 /*------------------------------------------------------------------------------------------*/
-
-		
-		
-		

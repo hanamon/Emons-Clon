@@ -61,19 +61,3 @@ $(function(){ //section3-Resize.js
 	}
 	
 }); //section3-Resize.js
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
